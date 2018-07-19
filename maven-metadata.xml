@@ -2,4 +2,9 @@
 <groupId>com.snatikpolygon</groupId>
 <artifactId>HTTPClient</artifactId>
 <version>1.0.2</version>
+<versioning>
+<versions>
+<version>1.0.2</version>
+</versions>
+</versioning>
 </metadata>
